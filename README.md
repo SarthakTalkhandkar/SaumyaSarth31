@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sarthak Talkhandkar</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyasarth31&label=Profile%20views&color=0e75b6&style=flat" alt="saumyasarth31" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SaumyaSarth31&label=Profile%20views&color=0e75b6&style=flat" alt="SaumyaSarth31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saumyasarth31" alt="saumyasarth31" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SaumyaSarth31" alt="SaumyaSarth31" /></a> </p>
 
 - 🔭 I’m currently working on **VidyaTech-Ed-Tech Platform**
 
